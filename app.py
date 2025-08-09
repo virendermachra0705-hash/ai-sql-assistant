@@ -10,8 +10,8 @@ import pandas as pd
 import fitz  # For PDF
 from langchain_groq import ChatGroq
 
-st.set_page_config(page_title="Langchain: Chat with SQL DB", layout="wide")
-st.title("Langchain: Chat with SQL DB or File")
+st.set_page_config(page_title="AI SQL Analyst: Langchain", layout="wide")
+st.title("AI SQL Analyst")
 
 LOCALDB = "USE_LOCALDB"
 MYSQL = "USE_MYSQL"
