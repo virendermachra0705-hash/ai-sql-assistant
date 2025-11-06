@@ -31,4 +31,4 @@ langchain-experimental
 tabulate
 langchain
 langchain-community
-
+langchain-core
