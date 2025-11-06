@@ -29,4 +29,6 @@ numexpr
 huggingface_hub
 langchain-experimental
 tabulate
+langchain
+langchain-community
 
